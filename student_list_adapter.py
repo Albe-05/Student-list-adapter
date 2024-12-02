@@ -47,8 +47,8 @@ try:
 
     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
     Credits: Alberto Zarpellon
-    Codice sorgente: """)
+    Codice sorgente: https://github.com/Albe-05/Student-list-adapter""")
     input()
 except Exception:
-    print("Più di qualcosa è andato storto, riavvia il programma e presta attenzione alle indicazioni, altrimenti prova a contattarmi: https://github.com/Albe-05")
+    print("Più di qualcosa è andato storto, riavvia il programma e presta attenzione alle indicazioni, altrimenti prova a contattarmi: https://github.com/Albe-05/Student-list-adapter")
     input()    
